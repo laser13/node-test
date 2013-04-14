@@ -1,0 +1,18 @@
+{
+    "author": {
+        "name": "Pavlenov Semen",
+        "email": "me@pavlenov.ru"
+    },
+    "name": "node-test",
+    "description": "dump helpers",
+    "dependencies": {
+        "mongoose": "*",
+        "cron": "*",
+        "tubur": "git+https://github.com/laser13/node-tubur.git#v0.0"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
